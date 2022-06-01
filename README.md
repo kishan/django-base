@@ -6,7 +6,7 @@ This is base Django project to help kickstart new webapp.
 
 ### 1. Clone the repo
 ```
-git clone git@github.com:<username>/django-base.git
+git clone git@github.com:kishan/django-base.git
 ```
 
 ### 2. Create your own virtual environment
