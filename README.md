@@ -1,6 +1,6 @@
 # django-base
 
-This is base Django project to help kickstart new webapp.
+This is base Django project to help kickstart a new webapp. It has a simple Django project set up without any apps.
 
 ## How to Setup Project
 
@@ -8,7 +8,6 @@ This is base Django project to help kickstart new webapp.
 ### 1. Create new repo from this template
 Rename the repo to your project
 ![django-base-template-button](https://user-images.githubusercontent.com/10304626/171469020-b0ce32f0-11a8-45ff-a009-6c203343c3c1.png)
-
 
 
 ### 2. Clone the new repo
